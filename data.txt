@@ -13,7 +13,7 @@
       "status": "ONLINE",
       "lib_name": "libmundo.so",
       "download_url": "https://github.com/LORDCHAN1828282/XYZ/raw/main/libmundo.so",
-      "game_activity": "com.unity3d.player.UnityPlayerActivity"
+      "game_activity": "com.unknowngodkea.support.MainActivity"
     },
     {
       "name": "KEAPATOOTIE FREE [NO SKINHACKS]",
