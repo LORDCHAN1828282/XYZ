@@ -9,11 +9,11 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KEAPATOOTIE FREE [WITH SKINHACKS]",
+      "name": "XYZ PREMIUM",
       "status": "ONLINE",
-      "lib_name": "libtranquility.so",
+      "lib_name": "libmundo.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libanguish.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.moba.unityplugin.MobaGameUnityActivity"
     },
     {
       "name": "KEAPATOOTIE FREE [NO SKINHACKS]",
