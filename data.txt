@@ -12,7 +12,7 @@
       "name": "XYZ PREMIUM",
       "status": "ONLINE",
       "lib_name": "libmundo.so",
-      "download_url": "https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libmundo.so",
+      "download_url": "https://github.com/LORDCHAN1828282/XYZ/raw/main/libmundo.so",
       "game_activity": "com.moba.unityplugin.MobaGameUnityActivity"
     },
     {
