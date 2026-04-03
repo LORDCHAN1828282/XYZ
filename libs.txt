@@ -1,0 +1,2 @@
+https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libnext.so|XYZ NO MENU|Simple features, Super Safe
+https://raw.githubusercontent.com/USER/REPO/main/libMenu.so|MOD MENU V1|Main features for Gusion
