@@ -1,4 +1,3 @@
-https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libnext.so|XYZ SPEED|STABLE - SAFE
+https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libnext.so|XYZ NO MENU|STABLE - SIMPLE FEATURES,SUPER SAFE MAIN
+https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libmenu.so|XYZ WITH MENU|STABLE - WARNING RISKY FULL FEATURES 
 https://example.com/lib2.so|V2 BRUTAL|MAINTENANCE - FIXING
-https://example.com/lib3.so|V3 EXPERIMENTAL|UNAVAILABLE - SOON
-https://example.com/lib4.so|V4 STEALTH|STABLE - NO RECOIL
