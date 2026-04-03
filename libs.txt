@@ -1,3 +1,2 @@
-https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libnext.so|XYZ NO MENU|STABLE - SIMPLE FEATURES,SUPER SAFE MAIN
-https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libmenu.so|XYZ WITH MENU|STABLE - WARNING RISKY FULL FEATURES 
-https://example.com/lib2.so|V2 BRUTAL|MAINTENANCE - FIXING
+https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libxxx.so|XYZ NO MENU|SAFE - SIMPLE FEATURES,SUPER SAFE MAIN
+https://github.com/LORDCHAN1828282/XYZ/raw/refs/heads/main/libmenu.so|XYZ WITH MENU| MAINTENANCE - WARNING RISKY FULL FEATURES 
