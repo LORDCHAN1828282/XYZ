@@ -1,2 +1,2 @@
-update: true
+update: false
 link: https://github.com/LORDCHAN1828282/XYZ/blob/main/BlackBox_4.0.0.apk
