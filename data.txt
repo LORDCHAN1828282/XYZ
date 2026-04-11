@@ -1,0 +1,2 @@
+update: true
+link: https://github.com/YourUsername/YourRepo/releases/download/v2.0/app.apk
