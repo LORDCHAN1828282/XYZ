@@ -1,2 +1,2 @@
 update: true
-link: https://github.com/YourUsername/YourRepo/releases/download/v2.0/app.apk
+link: https://github.com/LORDCHAN1828282/XYZ/blob/main/BlackBox_4.0.0.apk
